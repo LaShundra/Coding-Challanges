@@ -1,0 +1,7 @@
+let base = 3;
+let height = 2;
+
+function triArea(base, height) {
+	let triangleArea = (base * height)/2;
+	return triangleArea;
+}
